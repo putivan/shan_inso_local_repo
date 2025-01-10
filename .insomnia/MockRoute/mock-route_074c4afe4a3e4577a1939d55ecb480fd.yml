@@ -1,0 +1,16 @@
+_id: mock-route_074c4afe4a3e4577a1939d55ecb480fd
+type: MockRoute
+parentId: mock_196c2d30fee548ea92e6556095329042
+modified: 1736551760706
+created: 1736551732954
+body: |-
+  {
+  	"name": "NYC",
+  	"Country": "USA"
+  }
+headers: []
+statusCode: 200
+statusText: ""
+name: /city
+mimeType: application/json
+method: GET

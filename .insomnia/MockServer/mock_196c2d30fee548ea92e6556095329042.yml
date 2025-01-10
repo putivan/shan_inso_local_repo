@@ -1,0 +1,8 @@
+_id: mock_196c2d30fee548ea92e6556095329042
+type: MockServer
+parentId: wrk_b2eed0c869df43a0bc6ac9401f6fcda3
+modified: 1736551723621
+created: 1736551723621
+name: local-self-hosted-mock
+url: http://localhost:8080
+useInsomniaCloud: false

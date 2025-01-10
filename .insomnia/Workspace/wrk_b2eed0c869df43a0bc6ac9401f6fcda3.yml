@@ -1,0 +1,8 @@
+_id: wrk_b2eed0c869df43a0bc6ac9401f6fcda3
+type: Workspace
+parentId: null
+modified: 1736551723619
+created: 1736551723619
+name: local-self-hosted-mock
+description: ""
+scope: mock-server
